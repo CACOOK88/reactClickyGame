@@ -1,0 +1,31 @@
+.navbar {
+  background-color: rgb(11, 59, 194);
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.navbar ul {
+  width: 100%;
+  margin: 0;
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar ul li {
+  list-style: none;
+  width: 100%;
+}
+
+.title {
+  text-align: start;
+}
+.guess {
+  text-align: center;
+  transition: 0.3 all ease-In
+}
+
+.score {
+  text-align: end;
+}

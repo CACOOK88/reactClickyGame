@@ -1,0 +1,23 @@
+.jumbotron {
+  width: 100%;
+  background-color: #777;
+  background: url('./weights.jpeg');
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 500px;
+  z-index: -2;
+
+}
+
+.jumbotron h1 {
+  font-size: 4rem;
+  margin: 0;
+}
+
+.jumbotron h3 {
+  font-size: 1.75rem;
+}
